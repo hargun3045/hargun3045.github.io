@@ -1,9 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-    url: /travels/
+  - title: "Blog"
+    url: /home/
+  # - title: "About"
+  #   url: /about/
+
   # - title: "Blog"
     # url: /year-archive/
   # - title: "Sample Collections"
