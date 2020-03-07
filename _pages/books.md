@@ -5,7 +5,7 @@ layout: collection
 permalink: /books/
 collection: books
 author_profile: true
-entries_layout: grid
-classes: wide
+# entries_layout: grid
+# classes: wide
 
 ---

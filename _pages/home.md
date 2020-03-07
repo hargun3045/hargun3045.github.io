@@ -39,7 +39,7 @@ feature_row:
   - image_path: /images/tree.jpg
     title: "The Speaking Tree"
     excerpt: "Reviews & Opinions on books, publishings and literature by famous authors "
-    url: "/ideas/"
+    url: "/books/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:

@@ -1,6 +1,6 @@
 ---
 
-title: Tech
+title: "Science & Technology"
 layout: collection
 permalink: /tech/
 collection: htech
