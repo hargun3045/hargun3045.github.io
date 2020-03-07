@@ -15,6 +15,7 @@ author_profile: true
 
 ---
 
+
 I first had the urge to read Umberto Eco after reading his interview published in my 12th grade English textbook. This was roughly a decade ago. Reading it had a lasting impact on me because Eco’s ideas appeared so fresh and radical. I wanted to know more about his style, his form of expression, and especially the novel that the lesson spoke about, ‘The Name of the Rose’
 
 ![](/images/posts/NameDelaRose/image1.jpeg)
@@ -34,7 +35,7 @@ I personally didn’t care much for Tolkien or Douglas Adam, but I had an emotio
 
 I tried hacks, and one of the ideas I had was to see the movie first (starring the almighty Sean Connery).   
 I saw the trailer, and I was like, ‘yeah, maybe I’ll watch that first’. But for some reason, I didn’t, and it was the best decision of 2020 at least\!   
-Why this was the case, is the purpose of this blog. So let me tell you what I thought about the book (which I completed with some effort), the movie(which didn’t take any effort), and what was the lasting thought after the ordeal. Let’s go\!
+Why this was the case, is the purpose of this blogpost. So let me tell you what I thought about the book (which I completed with some effort), the movie(which didn’t take any effort), and what was the lasting thought after the ordeal. Let’s go\!
 
 **The Book**
 
@@ -59,7 +60,7 @@ I reached the last chapter satisfied with the read. My respect for Eco was reinf
 Even so, the final outcome was utter destruction as the ‘criminal’ burned down most of the monastery using the candle William brought with him\! The end of the book was so frighteningly real, with no sense of resolution, no meaning and with our hero ultimately disillusioned with his own core beliefs\! I couldn’t sleep the night I completed the book. It shook me\!   
 It wasn’t like any story I had read before. It exposed me to the potential meaningless of life, and I ‘hated’ Eco but in an admiring, respectful way. It took me a lot of time to ‘snap out of it’ and for that reason, I must admit, it has been one of the most enjoyable reading experiences I’ve had so far.
 
-To learn more about the man and his thoughts, I saw some of his interviews on youtube (thanks internet\!). After hours of listening to him, I learned that all of those feelings I had while reading the book were intended\! Eco mentioned how he fought against his publishers to keep a dense first half of the book. An act he termed ‘Do Penitence\!’ He wanted his readers to go through all that difficult material and only the ones to survive through it would get to enjoy the spectacle of the second half. What a contrarian belief to the current ‘Give the audience what they want’
+To learn more about the man and his thoughts, I saw some of his interviews on youtube [(the best one)](https://www.youtube.com/watch?v=M8IWTOFNlOc). After hours of listening to him, I learned that all of those feelings I had while reading the book were intended\! Eco mentioned how he fought against his publishers to keep a dense first half of the book. An act he termed ‘Do Penitence\!’ He wanted his readers to go through all that difficult material and only the ones to survive through it would get to enjoy the spectacle of the second half. What a contrarian belief to the current ‘Give the audience what they want’
 
 He also spoke at length about how he created the medieval world even before writing a word, by reading old chronicles, studying priests, and also designing more than fifty labyrinths by himself for only the one he had in the book.
 
