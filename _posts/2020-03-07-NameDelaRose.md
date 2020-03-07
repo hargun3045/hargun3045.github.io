@@ -13,7 +13,6 @@ header:
 # classes: wide
 author_profile: true
 
----
 
 I first had the urge to read Umberto Eco after reading his interview published in my 12th grade English textbook. This was roughly a decade ago. Reading it had a lasting impact on me because Eco’s ideas appeared so fresh and radical. I wanted to know more about his style, his form of expression, and especially the novel that the lesson spoke about, ‘The Name of the Rose’
 
@@ -34,7 +33,7 @@ I personally didn’t care much for Tolkien or Douglas Adam, but I had an emotio
 
 I tried hacks, and one of the ideas I had was to see the movie first (starring the almighty Sean Connery).   
 I saw the trailer, and I was like, ‘yeah, maybe I’ll watch that first’. But for some reason, I didn’t, and it was the best decision of 2020 at least\!   
-Why this was the case, is the purpose of this blog. So let me tell you what I thought about the book (which I completed with some effort), the movie(which didn’t take any effort), and what was the lasting thought after the ordeal. Let’s go\!
+Why this was the case, is the purpose of this blogpost. So let me tell you what I thought about the book (which I completed with some effort), the movie(which didn’t take any effort), and what was the lasting thought after the ordeal. Let’s go\!
 
 **The Book**
 
