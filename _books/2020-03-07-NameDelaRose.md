@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Name of the Rose"
+title: "Review: The Name of the Rose"
 categories:
     - Books
 tags:

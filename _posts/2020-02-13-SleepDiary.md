@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Tell me your Dreams"
+title: "Data driven Dream analysis"
 categories:
     - SciTech
 tags:
