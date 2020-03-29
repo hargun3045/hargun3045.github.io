@@ -21,7 +21,11 @@ author_profile: true
 > In a galaxy, far, far away... A virus returns for revenge
 
 Covid-19, or popularly known as the Coronavirus has taken the world by storm, sending people worldwide into self-isolation and global stocks down the drain.   
+Herculean efforts are being taken by government agencies around to contain the spread, although we’re in no shortage of ‘creative minds’ deploying ‘alternative’ methods to tackle the problem.
 
+Here’s just a taste.
+
+[![](/images/posts/univai/image1.jpeg)](https://www.youtube.com/watch?v=4dPd708Sk98)
 
 It's an exhausting exercise to follow all the related news, take necessary precautions and track all new cases.
 
@@ -32,10 +36,9 @@ It’s the year 2050, and you can drive a Tesla on Mars (only at a discount pric
 
 ![](/images/posts/univai/tesla.jpg)
 
-COVID-19 is a thing of the past, when millions of people were saved by a new vaccination developed by Israeli scientists.
+COVID-19 is a thing of the past, when millions of people were saved either by a new vaccination developed by an Israeli scientists or by simply chanting **Go Corona, Corona Go** in unison.
 
-But quietly, an ‘antigenic drift’ has taken place, and a Chinese man eating ‘martian bat-soup’ in the ‘Sea of Tranquility’ has no idea he is going to be patient zero of **COVID-49**. 
-<p>History repeats itself, a new strain, with the same symptoms has caused another pandemic.</p>
+But quietly, an ‘antigenic drift’ has taken place, and a Chinese man eating ‘martian bat-soup’ in the ‘Sea of Tranquility’ has no idea he is going to be patient zero of **COVID-49**. History repeats itself, a new strain, with the same symptoms has caused another pandemic.
 
 ![](/images/posts/univai/image2.jpeg)
 
@@ -594,38 +597,9 @@ The dataset is less revealing on the gender of the patients, and in fact correct
 
 But the biggest reveal is in the above graph as it shows the percentage of hospitalisations for patients of different symptoms.
 
-According to the dataset, those with **sore throat** and **chills** have significantly lower than average 'High Urgency' hospitalisations, and this is what our model ended up learning; If someone shows these two symptoms, *send them back home*
+According to the dataset, those with **sore throat** and **chills** have significantly lower than average 'High Urgency' hospitalisations, and this is what our model ended up learning; If someone shows these two symptoms, *send them back home*!
 
-
-### Improving the model using a better loss function
-
-So it's clear that the model has limitations. One reason for that is that we have an imbalanced dataset with low urgency admission entries making up nearly 75% of the data.
-
-![Imbalanced dataset](/images/posts/univai/Imbalance.png)
-
-To better train our model, our loss function needs to account for this imbalance and one frutiful approach is to use a **focal loss**. (Although the concept of focal loss is beyond the scope of the current discussion, an excellent introduction can be found [here](https://www.dlology.com/blog/multi-class-classification-with-focal-loss-for-imbalanced-datasets/))
-
-#### Confusion matrix
-
-After re-training the model with a new loss function, we observe the confusion matrix to compare our performance.
-
-**Confusion matrix comparison**
-
-
--------------------------|-------------------------
-![](/images/posts/univai/dmcm.png)  |  ![](/images/posts/univai/dmfocalcm.png)
-
-As you can see above, we got almost twice the number of 'High Urgency' patients correctly after using the focal loss.
-
-We can also plot a [Cumulative gains curve](https://towardsdatascience.com/meaningful-metrics-cumulative-gains-and-lyft-charts-7aac02fc5c14) to see how much better our model is compared to a baseline logistic regression model.
-
-![Cumulative gains](/images/posts/univai/cg.png)
-
-Our model isn't terribly great, but by testing 60% of the population, it can detect 80% of the 'High Urgency' cases. This is handy if say we have limited test kits.
-
-You can see the model in action through this [app](https://covid19-app-272409.appspot.com/), that tells you how many days you should wait before you seek medical help on a possible coronavirus infection.
-
-[![app](/images/posts/univai/app.png)](https://covid19-app-272409.appspot.com/){: .align-center}
+But from a medical stand point, it's preposterous to assume such a criteria. Our model errs because the data is poor. It won't matter if it's a deep learning model, or a simple linear regression.
 
 ## Concluding remarks
 
@@ -642,6 +616,10 @@ I believe that we can’t afford to ‘automate’ a decision-making process on 
 
 **So how do we avoid stressing our healthcare system?**  
 
-Wash your hands frequently, don’t get infected and don't go out and infect ‘at-risk’ people. 
+Wash your hands frequently, don’t get infected and go out and don't infect ‘at-risk’ people. 
+
+And for a thorough instruction, look no further than these policemen from Kerala, taking matters in their own ‘hands’ and shaking some booty too\!
+
+[![](/images/posts/univai/image4.jpeg)](https://www.youtube.com/watch?v=Nun2xJdY68E)
 
 For more news and views, stay tuned to GenSecTimes.
