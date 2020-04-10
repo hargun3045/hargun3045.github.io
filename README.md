@@ -12,3 +12,11 @@
 - balleballe v2
 
 - Make changes to the follow links and feed
+
+
+## Code chunks 
+
+```
+bundle exec jekyll serve
+```
+

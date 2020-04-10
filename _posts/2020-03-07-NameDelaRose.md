@@ -15,6 +15,7 @@ author_profile: true
 
 ---
 
+>"In the end, I wish I knew the name of that Rose"
 
 I first had the urge to read Umberto Eco after reading his interview published in my 12th grade English textbook. This was roughly a decade ago. Reading it had a lasting impact on me because Eco’s ideas appeared so fresh and radical. I wanted to know more about his style, his form of expression, and especially the novel that the lesson spoke about, ‘The Name of the Rose’
 
