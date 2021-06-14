@@ -15,7 +15,7 @@ author_profile: true
 
 ---
 
->Final Project for EdX MOOC - Data Science with Python'
+>Final Project for EdX MOOC - Data Science with Python
 
 Hi\!   
 My name is Hargun Oberoi, I am a mathematics graduate from India and having worked in the tech industry, like millions of people around the world, I’m grappling with what I can only describe as the biggest challenge of our century: A good night’s sleep.
